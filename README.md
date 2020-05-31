@@ -1,4 +1,4 @@
-# README
+# Read
 
 This repo is created for reproducibility purpose. We provide two sets of code: 
 
