@@ -3,7 +3,6 @@ import os
 import json
 
 import sys 
-sys.path.remove("/mnt/fs5/anie/VQACaptioning")
 
 from models.model_loader import ModelLoader
 from train.trainer_loader import TrainerLoader
