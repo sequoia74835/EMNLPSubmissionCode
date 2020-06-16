@@ -8,10 +8,6 @@ import numpy as np
 from sklearn import metrics
 
 import sys
-
-if '/home/anie/AutoGrade/simplepg' in sys.path:
-    del sys.path[sys.path.index("/home/anie/AutoGrade/simplepg")]
-
 from rsa import IncRSA
 from rsa import load_model
 
